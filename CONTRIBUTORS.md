@@ -1,0 +1,5 @@
+- Ada Lovelace: First computer programmer and mathematician.
+- Charles Babbage: Inventor of the Difference Engine and Analytical Engine, father of computers.
+- Luigi Menabrea: Engineer who authored the first description of the Analytical Engine.
+- Mary Somerville: Scientist who introduced Lovelace to Babbage and mentored her.
+- Henry Prevost Babbage: Son who helped preserve Babbage’s work.
