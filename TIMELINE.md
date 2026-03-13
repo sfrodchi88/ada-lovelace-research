@@ -1,0 +1,10 @@
+- 1815: Birth of Ada Lovelace (Augusta Ada Byron) in London.
+- 1811: Birth of Charles Babbage in London.
+- 1833: Ada meets Charles Babbage at a Saturday night soirée.
+- 1837: Babbage proposes the Analytical Engine.
+- 1843: Ada Lovelace translates Menabrea's paper and adds extensive notes, including the first computer program.
+- 1845: Publication of Lovelace's notes on the Analytical Engine.
+- 1871: Death of Charles Babbage.
+- 1852: Death of Ada Lovelace.
+- 1991: Completion of Babbage's Difference Engine No. 2 at the Science Museum London.
+- 2010: Construction of a partial Analytical Engine mill displayed at the Science Museum.
